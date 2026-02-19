@@ -17,7 +17,6 @@ type BookingForm = {
   readingType: string;
   notes: string;
 };
-
 const durations = [
   { value: "15", label: "15 min — A Quick Cosmic Whisper", price: "$25" },
   { value: "30", label: "30 min — A Deep Starlit Dive", price: "$45" },
